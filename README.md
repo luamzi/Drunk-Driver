@@ -1,6 +1,6 @@
 # General
 General scope for the project of Sistemas Microprocessados - 2018.2
-Professor: Ricardo
+Professor: Ricardo Jardel
 
 Team:
     Luiky Magno Luz Vasconcelos (397877), Luan Pereira de Lima Brasil (397743)
